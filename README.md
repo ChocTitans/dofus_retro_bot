@@ -8,3 +8,10 @@ Mini-projet avec Python (pyautogui + opencv)
 # Bug-fixes :
 - optimisation des clicks (pixels)
 - fix quand le curseur se bloque sur un monstre
+- fix quand le joueur augmente de level
+- fix quand le joueur ne peut plus lancer des sorts
+
+
+# todolist
+- Ajout de detection de plusieurs monstres
+- Ajout les autres classes
